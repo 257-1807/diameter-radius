@@ -1,0 +1,11 @@
+$ lake env leanchecker --verbose RadiusBound.Scalar
+replaying RadiusBound.Scalar
+exit status: 0
+
+$ lake env leanchecker --verbose RadiusBound.Graph
+replaying RadiusBound.Graph
+exit status: 0
+
+$ lake env leanchecker --verbose RadiusBound.Path
+replaying RadiusBound.Path
+exit status: 0

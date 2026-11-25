@@ -1,0 +1,8 @@
+n=2  connected=1  (radius, diameter)=[(1, 1)]
+n=3  connected=4  (radius, diameter)=[(1, 1), (1, 2)]
+n=4  connected=38  (radius, diameter)=[(1, 1), (1, 2), (2, 2), (2, 3)]
+n=5  connected=728  (radius, diameter)=[(1, 1), (1, 2), (2, 2), (2, 3), (2, 4)]
+n=6  connected=26704  (radius, diameter)=[(1, 1), (1, 2), (2, 2), (2, 3), (2, 4), (3, 3), (3, 5)]
+Total connected labelled graphs checked: 27475
+P9: radius=4, diameter=8, sharp equality: 8 = (sqrt(8))^2
+All paths of orders 2 through 65 passed both integer checks.

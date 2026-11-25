@@ -1,0 +1,7 @@
+$ lake env lean -DwarningAsError=true RadiusBound.lean
+'RadiusBound.sharp_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RadiusBound.path_nine_invariants' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RadiusBound.base_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RadiusBound.conjecture_956425' depends on axioms: [propext, Classical.choice, Quot.sound]
+'RadiusBound.conjecture_790683' depends on axioms: [propext, Classical.choice, Quot.sound]
+exit status: 0
